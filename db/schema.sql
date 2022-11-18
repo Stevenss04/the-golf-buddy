@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS golfer_db;
+
+CREATE DATABASE golfer_db;
